@@ -22,4 +22,10 @@ Azure Data Factory (ADF) is a cloud-based data integration service that allows y
 Detailed steps in the followin link [Details]
 
 [Details]: https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/08/17/backup-your-data-lake-using-azure-data-factory-metadata-copy-activity/#:~:text=Prerequisites.%20One%20Azure%20SQL%20Database%20to%20host%20the,and%20deep%20technical%20engagements%20with%20customers.%20Learn%20more
-#Datalake, #Azure, #ADF
+categories:  ["#Datalake","#Azure","#ADF"]
+
+tags:
+ - #Datalake
+ - #Azure
+ - #ADF
+tags: ["#Datalake","#Azure","ADF"]
