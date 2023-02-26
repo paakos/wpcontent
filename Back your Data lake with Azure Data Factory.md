@@ -25,7 +25,6 @@ Azure Data Factory (ADF) is a cloud-based data integration service that allows y
 - Additionally, ADF provides built-in monitoring and logging capabilities, allowing you to track the status of data pipelines and troubleshoot any issues that may arise. This can be especially useful when dealing with large data sets, as it can help ensure that the data is being transferred correctly and in a timely manner.
 - Overall, using ADF to backup an Azure Data Lake provides a flexible and efficient way to automate data transfer and ensure that your data is protected and easily accessible.
 
-
 Detailed steps in the followin link [Details]
 
 [Details]: https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/08/17/backup-your-data-lake-using-azure-data-factory-metadata-copy-activity/#:~:text=Prerequisites.%20One%20Azure%20SQL%20Database%20to%20host%20the,and%20deep%20technical%20engagements%20with%20customers.%20Learn%20more
@@ -33,4 +32,3 @@ Detailed steps in the followin link [Details]
 - <b>#Azure<b> 
 - <b>#Datalake<b>
 - <b>#DataFactory<b>
- 
