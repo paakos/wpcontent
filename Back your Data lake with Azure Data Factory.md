@@ -2,7 +2,7 @@
 title: Back your Data lake with Azure Data Factory
 status: publish
 date: "2021-12-31T23:00:00"
-categories: [Cloud Data]
+categories: [Cloud, Data&AI]
 tags: [Azure, Datalake, Datafactory]
 ---
 
@@ -32,5 +32,5 @@ Detailed steps in the followin link [Details]
 
 - <b>#Azure<b> 
 - <b>#Datalake<b>
--  <b>#DataFactory<b>
+- <b>#DataFactory<b>
  
