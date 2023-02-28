@@ -9,7 +9,7 @@ taxonomy:
         - azure
         - datalake
         - datafactory
-post_date: "2023-01-26T06:51:00"
+post_date: "2023-01-26T06:52:00"
 ---
 
 Azure Data Factory (ADF) is a tool that helps to make sure that data is backed up and safe. It does this by automatically copying data from one place to another, like from an Azure Data Lake to a different storage space, on a regular schedule. This way, if something happens to the original data, there’s a backup ready to use. ADF also makes sure that only new or changed data is copied, so it doesn’t take up too much space or use too much internet. Additionally, ADF can help you track and fix any problems that may come up during the backup process. Overall, using ADF to backup your data lake helps to keep your data safe and easily accessible.
